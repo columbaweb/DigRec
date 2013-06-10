@@ -1,0 +1,5 @@
+[28-Feb-2012 21:19:59] PHP Fatal error:  Call to undefined function add_action() in /home/reynolds/public_html/wp-content/plugins/wpmu_dev_maps_plugin/wpmu_dev_maps_plugin.php on line 31
+[12-Mar-2012 15:51:00] PHP Fatal error:  Call to undefined function add_action() in /home/reynolds/public_html/wp-content/plugins/wpmu_dev_maps_plugin/wpmu_dev_maps_plugin.php on line 31
+[14-Mar-2012 21:00:01] PHP Fatal error:  Call to undefined function add_action() in /home/reynolds/public_html/wp-content/plugins/wpmu_dev_maps_plugin/wpmu_dev_maps_plugin.php on line 31
+[23-Apr-2012 06:33:17] PHP Fatal error:  Call to undefined function add_action() in /home/reynolds/public_html/wp-content/plugins/wpmu_dev_maps_plugin/wpmu_dev_maps_plugin.php on line 31
+[18-May-2012 21:45:40] PHP Fatal error:  Call to undefined function add_action() in /home/reynolds/public_html/wp-content/plugins/wpmu_dev_maps_plugin/wpmu_dev_maps_plugin.php on line 31

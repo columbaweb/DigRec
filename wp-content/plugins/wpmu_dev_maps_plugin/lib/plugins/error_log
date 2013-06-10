@@ -1,0 +1,12 @@
+[28-Feb-2012 23:04:51] PHP Fatal error:  Call to undefined function is_admin() in /home/reynolds/public_html/wp-content/plugins/wpmu_dev_maps_plugin/lib/plugins/agm-marker_cluster.php on line 29
+[28-Feb-2012 23:04:52] PHP Fatal error:  Call to undefined function is_admin() in /home/reynolds/public_html/wp-content/plugins/wpmu_dev_maps_plugin/lib/plugins/agm-center_map.php on line 55
+[28-Feb-2012 23:06:35] PHP Fatal error:  Call to undefined function is_admin() in /home/reynolds/public_html/wp-content/plugins/wpmu_dev_maps_plugin/lib/plugins/agm-featured_image.php on line 57
+[28-Feb-2012 23:11:27] PHP Fatal error:  Call to undefined function add_action() in /home/reynolds/public_html/wp-content/plugins/wpmu_dev_maps_plugin/lib/plugins/agm-fix_and_repair.php on line 273
+[28-Feb-2012 23:16:15] PHP Fatal error:  Call to undefined function is_admin() in /home/reynolds/public_html/wp-content/plugins/wpmu_dev_maps_plugin/lib/plugins/agm-kml_overlay.php on line 106
+[28-Feb-2012 23:21:03] PHP Fatal error:  Call to undefined function is_admin() in /home/reynolds/public_html/wp-content/plugins/wpmu_dev_maps_plugin/lib/plugins/agm-bp-profile_maps.php on line 350
+[15-Mar-2012 04:44:03] PHP Fatal error:  Call to undefined function is_admin() in /home/reynolds/public_html/wp-content/plugins/wpmu_dev_maps_plugin/lib/plugins/agm-marker_cluster.php on line 29
+[15-Mar-2012 05:13:28] PHP Fatal error:  Call to undefined function is_admin() in /home/reynolds/public_html/wp-content/plugins/wpmu_dev_maps_plugin/lib/plugins/agm-kml_overlay.php on line 106
+[15-Mar-2012 05:28:01] PHP Fatal error:  Call to undefined function is_admin() in /home/reynolds/public_html/wp-content/plugins/wpmu_dev_maps_plugin/lib/plugins/agm-featured_image.php on line 57
+[15-Mar-2012 05:42:35] PHP Fatal error:  Call to undefined function is_admin() in /home/reynolds/public_html/wp-content/plugins/wpmu_dev_maps_plugin/lib/plugins/agm-bp-profile_maps.php on line 350
+[15-Mar-2012 05:57:00] PHP Fatal error:  Call to undefined function add_action() in /home/reynolds/public_html/wp-content/plugins/wpmu_dev_maps_plugin/lib/plugins/agm-fix_and_repair.php on line 273
+[15-Mar-2012 06:22:53] PHP Fatal error:  Call to undefined function is_admin() in /home/reynolds/public_html/wp-content/plugins/wpmu_dev_maps_plugin/lib/plugins/agm-center_map.php on line 55

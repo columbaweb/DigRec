@@ -1,0 +1,13 @@
+[28-Feb-2012 23:18:24] PHP Fatal error:  Using $this when not in object context in /home/reynolds/public_html/wp-content/plugins/wpmu_dev_maps_plugin/lib/forms/widget_settings.php on line 2
+[28-Feb-2012 23:23:22] PHP Fatal error:  Call to undefined function is_multisite() in /home/reynolds/public_html/wp-content/plugins/wpmu_dev_maps_plugin/lib/forms/plugin_settings.php on line 7
+[01-Mar-2012 15:34:09] PHP Fatal error:  Call to undefined function is_multisite() in /home/reynolds/public_html/wp-content/plugins/wpmu_dev_maps_plugin/lib/forms/plugin_settings.php on line 7
+[01-Mar-2012 15:44:49] PHP Fatal error:  Using $this when not in object context in /home/reynolds/public_html/wp-content/plugins/wpmu_dev_maps_plugin/lib/forms/widget_settings.php on line 2
+[05-Mar-2012 08:08:24] PHP Fatal error:  Call to undefined function is_multisite() in /home/reynolds/public_html/wp-content/plugins/wpmu_dev_maps_plugin/lib/forms/plugin_settings.php on line 7
+[05-Mar-2012 08:21:24] PHP Fatal error:  Using $this when not in object context in /home/reynolds/public_html/wp-content/plugins/wpmu_dev_maps_plugin/lib/forms/widget_settings.php on line 2
+[12-Mar-2012 16:10:36] PHP Fatal error:  Call to undefined function is_multisite() in /home/reynolds/public_html/wp-content/plugins/wpmu_dev_maps_plugin/lib/forms/plugin_settings.php on line 7
+[12-Mar-2012 16:35:02] PHP Fatal error:  Using $this when not in object context in /home/reynolds/public_html/wp-content/plugins/wpmu_dev_maps_plugin/lib/forms/widget_settings.php on line 2
+[14-Mar-2012 18:56:05] PHP Fatal error:  Call to undefined function is_multisite() in /home/reynolds/public_html/wp-content/plugins/wpmu_dev_maps_plugin/lib/forms/plugin_settings.php on line 7
+[15-Mar-2012 04:29:55] PHP Fatal error:  Call to undefined function is_multisite() in /home/reynolds/public_html/wp-content/plugins/wpmu_dev_maps_plugin/lib/forms/plugin_settings.php on line 7
+[15-Mar-2012 06:10:35] PHP Fatal error:  Using $this when not in object context in /home/reynolds/public_html/wp-content/plugins/wpmu_dev_maps_plugin/lib/forms/widget_settings.php on line 2
+[15-Mar-2012 10:36:47] PHP Fatal error:  Call to undefined function is_multisite() in /home/reynolds/public_html/wp-content/plugins/wpmu_dev_maps_plugin/lib/forms/plugin_settings.php on line 7
+[15-Mar-2012 10:36:48] PHP Fatal error:  Call to undefined function is_multisite() in /home/reynolds/public_html/wp-content/plugins/wpmu_dev_maps_plugin/lib/forms/plugin_settings.php on line 7
